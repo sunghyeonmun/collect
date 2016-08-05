@@ -75,5 +75,6 @@
 
 <br>
 		<input class="button" type="submit" value="°Ë»ö">
+		</div>
 </body>
 </html>

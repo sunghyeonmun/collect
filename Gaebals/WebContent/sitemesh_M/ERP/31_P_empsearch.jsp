@@ -9,7 +9,7 @@
 </head>
 <body>
 	<div id="contents" align="center">
-			<div style="float: left;"><h1>인사 관리자 페이지 입니다.</h1></div><br><br>
+	<div style="float:left; "><h1>인사 관리자 페이지 입니다.</h1></div>
 		<div style="margin: auto; text-align: center; margin-top: 80px">
 			<h1>근태 현황 조회</h1>
 		</div>
@@ -76,5 +76,6 @@
 
 <br>
 		<input class="button" type="submit" value="검색">
+		</div>
 </body>
 </html>
